@@ -12,7 +12,7 @@ The workspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 ## Team Members: 
-- Nishanth 
-- Shroumith Simha `( Leader )`
-- Aradhana
-- Nishmitha
+- Aaradhana R
+- Nishanth R
+- Nishmitha Shetty B.S
+- Shroumith Simha 
